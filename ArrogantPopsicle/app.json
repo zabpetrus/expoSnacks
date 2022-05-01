@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ArrogantPopsicle",
+    "slug": "ArrogantPopsicle",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
